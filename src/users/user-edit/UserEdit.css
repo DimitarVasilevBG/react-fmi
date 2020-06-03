@@ -1,0 +1,10 @@
+.user-edit-wrapper{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
+.user-edit-form{
+    width: 500px;
+    flex-direction: column;
+}

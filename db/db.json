@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "email": "jivko.v@mail.bg",
+      "password": "jivko",
+      "age": "14",
+      "name": "Jivko Penev",
+      "isActive": true,
+      "isAdmin": false,
+      "id": "506c3c99-e0d0-404a-b355-1414e017c743"
+    },
+    {
+      "email": "mitaka@gmail.com",
+      "password": "12345",
+      "age": "20",
+      "name": "Dimitar Vasilev",
+      "isActive": true,
+      "isAdmin": false,
+      "id": "6b4ecc48-8fcd-42b5-b2b7-067fd05bd5e4"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "age": "20",
+      "name": "Admin",
+      "isActive": true,
+      "isAdmin": true,
+      "id": "0cdfb652-835b-4bc9-9666-5f28bbbd51cd"
+    },
+    {
+      "email": "mitko.v@mail.bg",
+      "password": "123123",
+      "name": "Mitaka",
+      "age": "12",
+      "isActive": true,
+      "isAdmin": false,
+      "id": "dfa882e4-3cf5-4c4f-967e-ee211f744642"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "HomeWork",
+      "description": "doing homework\n",
+      "id": "ed3b367f-2fae-4e24-b20a-16a7f29dfff6",
+      "userId": "6b4ecc48-8fcd-42b5-b2b7-067fd05bd5e4",
+      "userName": "Dimitar Vasilev"
+    },
+    {
+      "title": "Wash dishes",
+      "description": "Wash the dishes ",
+      "id": "3568b67b-9192-4449-9979-6c6025aa50f7",
+      "userId": "506c3c99-e0d0-404a-b355-1414e017c743",
+      "userName": "Jivko Penev"
+    }
+  ]
+}

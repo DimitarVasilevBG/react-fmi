@@ -1,0 +1,10 @@
+.register-wrapper{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
+.register-form{
+    width: 500px;
+    flex-direction: column;
+}
